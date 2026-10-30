@@ -20,6 +20,9 @@
 [people.YouseifUS]
 sync_github_name = true
 
+[people.abdallah-shehawey]
+sync_github_name = true
+
 [people.brian-moon]
 real_name = "Il Min Brian Moon"
 display_name = "Il Min Brian Moon"
@@ -179,7 +182,4 @@ sync_github_name = true
 
 [people.dotCooCoo]
 real_name = "Robert Lee"
-sync_github_name = true
-
-[people.abdallah-shehawey]
 sync_github_name = true
